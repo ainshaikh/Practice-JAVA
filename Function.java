@@ -53,5 +53,7 @@ public class Function {
 
         // printMyName(name);  // function is called
         // sum(a, b);
+
+        //NOTE--->  a method is called inside a class and function is called directly in function
     }
 }
